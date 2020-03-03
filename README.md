@@ -7,4 +7,4 @@ Just checking out how Pivotal Tracker integrates with GitHub
 
 ### Logging in
 
-*Stay tuned*
+*Stay tuned...*
